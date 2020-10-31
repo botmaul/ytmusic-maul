@@ -1,0 +1,8 @@
+{
+  "PREFIX": "yt!", 
+  "TOKEN": "NzcxOTUyMjQ4Mzk3ODg5NTU2.X5zmjg.8wASinbngLaWy9-LyGA-U2rZug4", 
+  "YOUTUBE_API_KEY": "AIzaSyCiuQWAgKIzyvpW8ioJlq1PbHAsih9DURM",
+  "QUEUE_LIMIT": 10,
+  "COLOR": "RED",
+  "inviteURL": "https://discord.com/oauth2/authorize?client_id=771952248397889556&scope=bot&permissions=2146827769" 
+}
